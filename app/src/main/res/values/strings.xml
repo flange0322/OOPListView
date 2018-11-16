@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="citylist">
+        <item>臺北市</item>
+        <item>新北市</item>
+        <item>桃園市</item>
+        <item>臺中市</item>
+        <item>臺南市</item>
+        <item>高雄市</item>
+    </string-array>
+</resources>
